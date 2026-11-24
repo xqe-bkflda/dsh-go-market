@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="assets/banner.png" alt="dsh-go-market" width="100%">
+</div>
+
+<p align="center">
+[![License](https://img.shields.io/badge/license-MIT-3DDC84?style=flat-square)](LICENSE)
+  [![Stars](https://img.shields.io/github/stars/xqe-bkflda/dsh-go-market?style=flat-square&color=8FA5BA)](https://github.com/xqe-bkflda/dsh-go-market/stargazers)
+</p>
+
 # DSH Go 插件市场
 
 这是待拆出到公开仓库 `ccch1mneyyy/dsh-go-market` 的完整目录。安装入口是 DSH Go 的插件市场；本仓库只维护锁定版本的目录与静态检查结果，不托管或执行插件代码。
